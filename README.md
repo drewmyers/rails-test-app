@@ -12,7 +12,7 @@ Splurty was built with Ruby on Rails 5.2.1 when I was a student at Vanderbilt Un
 
 # Tech/Framework Used
 
--Ruby on Rails 2.5.1
+- Ruby on Rails 2.5.1
 - Git
 - Github
 - Postgresql
