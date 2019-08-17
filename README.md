@@ -16,6 +16,7 @@ Splurty was built with Ruby on Rails 5.2.1 when I was a student at Vanderbilt Un
 - MySQL
 - Bootstrap
 - Heroku
+- CSS
 
 # How to Contribute
 If interested in contributing clone my repo: Add a pull request, or open an issue.
