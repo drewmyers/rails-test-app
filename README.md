@@ -8,7 +8,7 @@ Splurty was built with Ruby on Rails 5.2.1 when I was a student at Vanderbilt Un
 
 # Screenshots
 
-
+![splurty](https://user-images.githubusercontent.com/48326186/63216835-3c2d9f00-c109-11e9-947f-ed111e787697.png)
 
 # Tech/Framework Used
 - Git
