@@ -1,6 +1,6 @@
 # Splurty
 
-Splurty was built with Ruby on Rails 5.2.1 when I was a student at Vanderbilt University's Coding Boot Camp. It lets users input quotes and they are randomly put out everytime the page is refreshed. These quotes are stored in the pages database. 
+Splurty was built with Ruby on Rails 5.2.3 when I was a student at Vanderbilt University's Coding Boot Camp. It lets users input quotes and they are randomly put out everytime the page is refreshed. These quotes are stored in the pages database. 
 
 # Splurty Deployed
 
@@ -12,7 +12,7 @@ Splurty was built with Ruby on Rails 5.2.1 when I was a student at Vanderbilt Un
 
 # Tech/Framework Used
 
-- Ruby on Rails 2.5.1
+- Ruby on Rails 2.5.3
 - Git
 - Github
 - Postgresql
