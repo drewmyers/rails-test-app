@@ -20,6 +20,13 @@ Splurty was built with Ruby on Rails 5.2.3 when I was a student at Vanderbilt Un
 - Heroku
 - CSS
 
+# Installation
+
+- Clone Repository
+- Run Bundle Install
+- Run rake db:create
+- Run rake db:migrate
+
 # How to Contribute
 If interested in contributing clone my repo: Add a pull request, or open an issue.
 
